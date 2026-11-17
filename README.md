@@ -101,7 +101,7 @@ Proline and OD280/OD315 were the two most influential features in the trained De
 
 ## 👨‍💻 Author
 
-**Nitish Kushwaha**
+**Nitish Kumar**
 
 B.Tech (Hons.) – Computer Science and Engineering
 
